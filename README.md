@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 # I'm a Software Engineer, Blogger, YouTuber
-- 🔭 I’m currently working on ...... 
+- 🔭 I’m currently working on making web apps and teaching how to make it.
 - 🌱 I’m currently learning web development (NodeJS, ReactJS and Angular).
 - 💬 Ask me about Java, Spring boot, React, Angular or any tech related stuff.
 
