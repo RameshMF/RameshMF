@@ -44,11 +44,20 @@ Here are some ideas to get you started:
 </a>
 
 # Free Courses on My YouTube Channel
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNzi3CpBWsCdQSzbjdWWy-f" target="_blank">Angular + Spring Boot CRUD Full Stack Application </a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr" target="_blank">ReactJS + Spring Boot CRUD Full Stack Application </a>
+* <a href="https://youtu.be/tLBX9fq813c" target="_blank">Angular + Spring Boot CRUD Full Stack Application </a>
+* <a href="https://youtu.be/n43h1eJ2EUE" target="_blank">ReactJS + Spring Boot CRUD Full Stack Application </a>
 * <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcM7B0TsM_-2efML7LAOriWV" target="_blank">Spring Boot Thymeleaf Full Stack Application </a>
 * <a href="https://youtu.be/Hk70e7KR290" target="_blank">Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL</a>
 * <a href="https://youtu.be/eWbGV3LLwVQ" target="_blank">Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Tutorial </a>
+
+# Learning Paths
+* <a href="https://youtu.be/L4sOI8ffsqs" target="_blank">How to Become a Full Stack Java Developer - Learning Path for Full Stack Java Developer</a>
+* <a href="https://youtu.be/Um98o1Yq1nU" target="_blank">Tips to Become a Good Java Developer</a>
+* <a href="https://youtu.be/8G9h3XjffzU" target="_blank">Java Developer Road Map - Learning Path for Java Developer</a>
+* <a href="https://youtu.be/q8B1PqADPfM" target="_blank">Top Skills to Become a Full-Stack Java Developer</a>
+* <a href="https://youtu.be/Kzojk8kjM8Q" target="_blank">10 Essential Tools for Java Developers | Real-Time Tools</a>
+* <a href="https://youtu.be/nZFe5ITz11I" target="_blank">How to Learn Spring Boot Step by Step - Spring Boot Learning Path</a>
+* <a href="https://youtu.be/o6c1zessesw" target="_blank">Best Way to Learn Java Programming | For Beginners Only</a>
 
 # All Tutorials/Guides from My Blog Website - Java Guides
 ## Java Tutorials for Beginners and Professionals
