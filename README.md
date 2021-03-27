@@ -43,6 +43,10 @@ Here are some ideas to get you started:
   <img alt="Ramesh's Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
 </a>
 
+
+# My Paid Courses
+* <a href="https://courses.javaguides.net/p/building-rest-api-with-spring-boot" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App</a>
+
 # Free Courses on My YouTube Channel
 * <a href="https://youtu.be/tLBX9fq813c" target="_blank">Angular + Spring Boot CRUD Full Stack Application </a>
 * <a href="https://youtu.be/n43h1eJ2EUE" target="_blank">ReactJS + Spring Boot CRUD Full Stack Application </a>
