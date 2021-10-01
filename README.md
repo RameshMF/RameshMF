@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 # My Paid Courses
 * <a href="https://courses.javaguides.net/p/building-rest-api-with-spring-boot" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App</a>
-
+* <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App - Udemy Course </a>
 # Free Courses on My YouTube Channel
 * <a href="https://youtu.be/tLBX9fq813c" target="_blank">Angular + Spring Boot CRUD Full Stack Application </a>
 * <a href="https://youtu.be/n43h1eJ2EUE" target="_blank">ReactJS + Spring Boot CRUD Full Stack Application </a>
