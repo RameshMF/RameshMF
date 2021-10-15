@@ -48,11 +48,18 @@ Here are some ideas to get you started:
 * <a href="https://courses.javaguides.net/p/building-rest-api-with-spring-boot" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App</a>
 * <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App - Udemy Course </a>
 # Free Courses on My YouTube Channel
-* <a href="https://youtu.be/tLBX9fq813c" target="_blank">Angular + Spring Boot CRUD Full Stack Application </a>
-* <a href="https://youtu.be/n43h1eJ2EUE" target="_blank">ReactJS + Spring Boot CRUD Full Stack Application </a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcM7B0TsM_-2efML7LAOriWV" target="_blank">Spring Boot Thymeleaf Full Stack Application </a>
-* <a href="https://youtu.be/Hk70e7KR290" target="_blank">Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL</a>
-* <a href="https://youtu.be/eWbGV3LLwVQ" target="_blank">Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Tutorial </a>
+* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNsCZuMB8ydjDNNWLY69Rpu" target="_blank">React Hooks + Spring Boot CRUD Full Stack Application </a>
+* <a href="https://youtu.be/tLBX9fq813c" target="_blank">Angular + Spring Boot CRUD Full Stack Application ✅</a>
+* <a href="https://youtu.be/n43h1eJ2EUE" target="_blank">ReactJS + Spring Boot CRUD Full Stack Application ✅</a>
+* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcM7B0TsM_-2efML7LAOriWV" target="_blank">Spring Boot Thymeleaf Full Stack Application ✅</a>
+* <a href="https://youtu.be/Hk70e7KR290" target="_blank">Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL ✅</a>
+* <a href="https://youtu.be/eWbGV3LLwVQ" target="_blank">Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Tutorial ✅ </a>
+* <a href="https://youtu.be/slTUtTSwRKU" target="_blank">Spring Boot Tutorial | 5 Hours Full Coding Course ✅ </a>
+* <a href="https://youtu.be/GdAon80-0KA" target="_blank">Java Collections Framework | Full Course [2021]✅ </a>
+* <a href="https://youtu.be/D1yOALZcMHs" target="_blank">Spring Boot AWS Deployment - Full Course [2021] ✅</a>
+* <a href="https://youtu.be/Ku3gsv7_bCc" target="_blank">Spring MVC Tutorial | Spring Boot | Full Course [2021]</a>
+* <a href="https://youtu.be/VR1zoNomG3w" target="_blank">5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥</a>
+* <a href="https://youtu.be/th3uIP7D8nk" target="_blank">Spring Boot Restful Web Services Tutorial | Full Course ✅</a>
 
 # Learning Paths
 * <a href="https://youtu.be/L4sOI8ffsqs" target="_blank">How to Become a Full Stack Java Developer - Learning Path for Full Stack Java Developer</a>
