@@ -43,10 +43,15 @@ Here are some ideas to get you started:
   <img alt="Ramesh's Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
 </a>
 
+# My Paid Courses on Teachable
+* <a href="https://courses.javaguides.net/p/building-rest-api-with-spring-boot" target="_blank">Building Real-Time REST APIs with Spring Boot and Deploy on AWS</a>
+* * <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
 
-# My Paid Courses
+
+# My Udemy Courses
 * <a href="https://courses.javaguides.net/p/building-rest-api-with-spring-boot" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App</a>
-* <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App - Udemy Course </a>
+* <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App - Udemy Course </a>
+* * <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/?referralCode=A75C5DD2967469FE7BDF" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
 # Free Courses on My YouTube Channel
 * <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNsCZuMB8ydjDNNWLY69Rpu" target="_blank">React Hooks + Spring Boot CRUD Full Stack Application </a>
 * <a href="https://youtu.be/tLBX9fq813c" target="_blank">Angular + Spring Boot CRUD Full Stack Application ✅</a>
