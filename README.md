@@ -45,14 +45,22 @@ Here are some ideas to get you started:
 
 # My Paid Courses on Teachable
 * <a href="https://courses.javaguides.net/p/building-rest-api-with-spring-boot" target="_blank">Building Real-Time REST APIs with Spring Boot and Deploy on AWS</a>
-* * <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
-
+* <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
+* <a href="https://courses.javaguides.net/p/learn-spring-data-jpa-using-hibernate" target="_blank">Learn Spring Data JPA with Hibernate: The Masterclass </a>
 
 # My Udemy Courses
-* <a href="https://courses.javaguides.net/p/building-rest-api-with-spring-boot" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App</a>
-* <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E" target="_blank">Building Real-Time REST APIs with Spring Boot - Building REST APIs for Complete Blog App - Udemy Course </a>
-* * <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/?referralCode=A75C5DD2967469FE7BDF" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
+* <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E" target="_blank">Building Real-Time REST APIs with Spring Boot and Deploy on AWS - Blog App </a>
+* <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/?referralCode=A75C5DD2967469FE7BDF" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
+
+* <a href="https://www.udemy.com/course/learn-spring-data-jpa-with-hibernate/?referralCode=3A842CFE7CA4DF314D76" target="_blank">Learn Spring Data JPA with Hibernate: The Masterclass  </a>
+
 # Free Courses on My YouTube Channel
+* <a href="https://youtu.be/_thI-4AF7M8" target="_blank">Spring Boot Tutorial - Learn Spring Boot in 10 Hours</a>
+
+* <a href="https://youtu.be/VR1zoNomG3w" target="_blank">5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥</a>
+
+* <a href="https://youtu.be/slTUtTSwRKU" target="_blank">Spring Boot Tutorial | Full Course [New]</a>
+
 * <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNsCZuMB8ydjDNNWLY69Rpu" target="_blank">React Hooks + Spring Boot CRUD Full Stack Application </a>
 * <a href="https://youtu.be/tLBX9fq813c" target="_blank">Angular + Spring Boot CRUD Full Stack Application ✅</a>
 * <a href="https://youtu.be/n43h1eJ2EUE" target="_blank">ReactJS + Spring Boot CRUD Full Stack Application ✅</a>
@@ -67,6 +75,10 @@ Here are some ideas to get you started:
 * <a href="https://youtu.be/th3uIP7D8nk" target="_blank">Spring Boot Restful Web Services Tutorial | Full Course ✅</a>
 
 # Learning Paths
+* <a href="https://youtu.be/LnFuK6xNe7c" target="_blank">Java Roadmap for Beginners 2022 🔥</a>
+* <a href="https://youtu.be/0-gUrk7QTME" target="_blank">Spring Boot and Microservices Roadmap for Beginners 🔥</a>
+* <a href="https://youtu.be/elgtrqylT6M" target="_blank">Full Stack Java Developer Roadmap for Beginners 2022 🔥</a>
+* <a href="https://youtu.be/PQEj_cm0QS0" target="_blank">ReactJS Roadmap for Beginners 2022 🔥</a>
 * <a href="https://youtu.be/L4sOI8ffsqs" target="_blank">How to Become a Full Stack Java Developer - Learning Path for Full Stack Java Developer</a>
 * <a href="https://youtu.be/Um98o1Yq1nU" target="_blank">Tips to Become a Good Java Developer</a>
 * <a href="https://youtu.be/8G9h3XjffzU" target="_blank">Java Developer Road Map - Learning Path for Java Developer</a>
