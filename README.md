@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 * <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E" target="_blank">Building Real-Time REST APIs with Spring Boot and Deploy on AWS - Blog App </a>
 * <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/?referralCode=A75C5DD2967469FE7BDF" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
 
-* <a href="https://www.udemy.com/course/learn-spring-data-jpa-with-hibernate/?referralCode=3A842CFE7CA4DF314D76" target="_blank">Learn Spring Data JPA with Hibernate: The Masterclass  </a>
+* <a href="https://www.udemy.com/course/master-spring-data-jpa-with-hibernate/?referralCode=83ABBA51A8BB3E692F8F" target="_blank">Learn Spring Data JPA with Hibernate: The Masterclass  </a>
 
 # Free Courses on My YouTube Channel
 * <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU" target="_blank">Spring Boot + Apache Kafka Course</a>
