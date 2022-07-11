@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 # I'm a Software Engineer, Blogger, YouTuber
-- 🔭 I’m currently working on software development
+- 🔭 I’m currently working on creating online video courses
 - 🌱 I’m currently learning web development (NodeJS, ReactJS and Angular).
 - 💬 Ask me about Java, Spring boot, React, Angular or any tech related stuff.
 
@@ -52,9 +52,14 @@ Here are some ideas to get you started:
 * <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E" target="_blank">Building Real-Time REST APIs with Spring Boot and Deploy on AWS - Blog App </a>
 * <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/?referralCode=A75C5DD2967469FE7BDF" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
 
-* <a href="https://www.udemy.com/course/master-spring-data-jpa-with-hibernate/?referralCode=83ABBA51A8BB3E692F8F" target="_blank">Learn Spring Data JPA with Hibernate: The Masterclass  </a>
+* <a href="https://www.udemy.com/course/master-spring-data-jpa-with-hibernate/?referralCode=83ABBA51A8BB3E692F8F" target="_blank">Master Spring Data JPA with Hibernate </a>
+
+* <a href="https://www.udemy.com/course/spring-boot-and-apache-kafka/?referralCode=545DF9E4BA28DAAA2832" target="_blank">Spring Boot + Apache Kafka - The Quickstart Practical Guide</a>
+
+* <a href="https://www.udemy.com/course/spring-boot-rabbitmq-course/?referralCode=597B5A8827E03AB85417" target="_blank">Spring Boot + RabbitMQ (Includes Event-Driven Microservices)</a>
 
 # Free Courses on My YouTube Channel
+* <a href="https://youtu.be/TkhU8d-uao8" target="_blank">Spring Boot Kafka Real-World Project Tutorial - Spring Boot Kafka Microservices</a>
 * <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU" target="_blank">Spring Boot + Apache Kafka Course</a>
 * <a href="https://youtu.be/_thI-4AF7M8" target="_blank">Spring Boot Tutorial - Learn Spring Boot in 10 Hours</a>
 * <a href="https://youtu.be/VR1zoNomG3w" target="_blank">5 Spring Boot Projects in 10 Hours - Line by Line Coding 🔥</a>
@@ -86,140 +91,11 @@ Here are some ideas to get you started:
 * <a href="https://youtu.be/o6c1zessesw" target="_blank">Best Way to Learn Java Programming | For Beginners Only</a>
 
 # All Tutorials/Guides from My Blog Website - Java Guides
-## Java Tutorials for Beginners and Professionals
-* <a href="https://www.javaguides.net/p/java-programs-for-beginners.html" target="_blank">Java Programs for Beginners</a>
-* <a href="https://www.javaguides.net/p/java-tutorial-learn-java-programming.html" target="_blank">Java Tutorial for Beginners</a>
-* <a href="https://www.javaguides.net/p/core-java-tutorial-for-experienced.html" target="_blank">Java Tutorial for Professionals</a>
-* <a href="https://www.javaguides.net/p/java-collections-tutorial.html" target="_blank">Java Collections Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-string-api-guide.html" target="_blank">Java String Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-exception-handling-tutorial.html" target="_blank">Java Exceptions Tutorial</a>
-* <a href="https://www.javaguides.net/2019/12/java-regex-tutorial-regular-expressions.html" target="_blank">Java Regex Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-multithreading-utorial.html" target="_blank">Java Multithreading Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-generics-tutorial.html" target="_blank">Java Generics Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-io-tutorial.html" target="_blank">Java IO Tutorial</a>
-* <a href="https://www.javaguides.net/p/jdbc-tutorial.html" target="_blank">JDBC Tutorial</a>
-* <a href="https://www.javaguides.net/p/javafx-tutorial.html" target="_blank">JavaFX Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-swing-tutorial.html" target="_blank">Swing Tutorial</a>
+* <a href="https://www.javaguides.net/p/top-java-tutorials.html" target="_blank">Top Java and Java EE Tutorials</a>
+* <a href="https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html" target="_blank">Java API Guides - Java Core Packages API Guides</a>
 
-## Java 8 and Java 9 Tutorials/Guides
-* <a href="https://www.javaguides.net/p/java-9-tutorial.html" target="_blank">Java 9 Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-8.html" target="_blank">Java 8 Tutorial</a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNXD2v76zM1nJybIwhBSwzZ" target="_blank">Java 8 Video Tutorials</a>
-* <a href="https://www.javaguides.net/p/java-8-date-time-api-tutorial.html" target="_blank">Java 8 Date Time Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-8-stream-api-tutorial.html" target="_blank">Java 8 Stream API Tutorial</a>
-## Java API Tutorials/Guides
-* <a href="https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html" target="_blank">Java API Guides</a>
-* <a href="https://www.javaguides.net/p/javascript-api-guides.html" target="_blank">JavaScript API Guides</a>
-* <a href="https://www.javaguides.net/2019/11/apache-velocity-tutorial.html" target="_blank">Apache Velocity Tutorial</a>
-* <a href="https://www.javaguides.net/p/kotlin-tutorial.html" target="_blank">Kotlin Tutorial</a>
-* <a href="https://www.javaguides.net/p/eclipse-tutorial.html" target="_blank">Eclipse Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-lang-package-tutorial.html" target="_blank">Java Lang Package</a>
-* <a href="https://www.javaguides.net/p/java-sql-package-tutorial.html" target="_blank">Java SQL Package</a>
-* <a href="https://www.javaguides.net/p/java-util-package-tutorial.html" target="_blank">Java Util Package</a>
-* <a href="https://www.javaguides.net/p/java-io-package-tutorial.html" target="_blank">Java IO Package</a>
-* <a href="https://www.javaguides.net/p/java-time-package-tutorial.html" target="_blank">Java Time Package</a>
-* <a href="https://www.javaguides.net/p/java-lang-reflect-package-tutorial.html" target="_blank">Java Lang Reflect Package </a>
-## Java EE Tutorials/Guides
-* <a href="https://www.javaguides.net/p/jsp-tutorial.html" target="_blank">JSP Tutorial</a>
-* <a href="https://www.javaguides.net/p/servlet-tutorial.html" target="_blank">Servlet Tutorial</a>
-* <a href="https://www.javaguides.net/2019/06/jsp-servlet-projects-with-source-code-free-download.html" target="_blank">JSP Servlet Projects</a>
-* <a href="https://www.javaguides.net/2018/10/jaxb-tutorial.html" target="_blank">JAXB Tutorial</a>
-* <a href="https://www.javaguides.net/2019/07/java-json-processing-tutorial.html" target="_blank">Java JSON-P Tutorial</a>
-* <a href="https://www.javaguides.net/2018/09/jax-rs-tutorial.html" target="_blank">JAX-RS Tutorial</a>
-* <a href="https://www.javaguides.net/p/jersey-rest.html" target="_blank">Jersey Rest Tutorial</a>
-* <a href="https://www.javaguides.net/p/maven.html" target="_blank">Maven Tutorial</a>
-* <a href="https://www.javaguides.net/p/restful-tutorial.html" target="_blank">Restful Tutorial</a>
+# All 500+ YouTube Videos
+* <a href="https://www.youtube.com/c/javaguides" target="_blank">Java Guides - YouTube Channel with 500+ Videos and 80K Subscribers</a>
 
-## JSON Tutorials
-* <a href="https://www.javaguides.net/p/java-jackson-json-tutorial-with-examples.html" target="_blank">Jackson JSON Tutorial</a>
-* <a href="https://www.javaguides.net/p/google-gson-tutorial.html" target="_blank">Google GSON Tutorial</a>
-* <a href="https://www.javaguides.net/2019/07/java-json-processing-tutorial.html" target="_blank">Java JSON-P Tutorial</a>
-* <a href="https://www.javaguides.net/2019/07/jsonsimple-tutorial-read-and-write-json-in-java.html" target="_blank">JSON.simple Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-xml-tutorial.html" target="_blank">Java XML Tutorial</a>
-* <a href="https://www.javaguides.net/p/apache-httpclient-tutorial.html" target="_blank">Apache HttpClient Tutorial</a>
-## Java/Java EE Design Patterns
-
-* <a href="https://www.javaguides.net/search/label/Head%20First%20Design%20Patterns" target="_blank">Head First Design Patterns</a>
-* <a href="https://www.javaguides.net/p/core-j2ee-patterns.html" target="_blank">Core J2EE Patterns</a>
-* <a href="https://ramesh-java-design-patterns.blogspot.com/p/core.html" target="_blank">Design Patterns(GOF)</a>
-* <a href="https://ramesh-java-design-patterns.blogspot.com/p/p-of-eaa.html" target="_blank">Architecture Patterns</a>
-
-## Java Coding Tutorials/Guides/Best Practices
-* <a href="https://www.javaguides.net/p/data-structures-and-algorithms-in-java.html" target="_blank">DS and Algorithms Tutorial</a>
-* <a href="https://www.javaguides.net/p/project-lombok-tutorial.html" target="_blank">Lombok Tutorial</a>
-* <a href="https://www.javaguides.net/p/object-oriented-design.html" target="_blank">Object Oriented Design</a>
-* <a href="https://www.javaguides.net/p/java-best-practices.html" target="_blank">Java Best Practices</a>
-* <a href="https://www.javaguides.net/p/object-oriented-design.html" target="_blank">OOPS Tutorial</a>
-* <a href="https://www.javaguides.net/search/label/Object%20Oriented%20Design" target="_blank">SOLID Principles</a>
-* <a href="https://www.javaguides.net/search/label/Utilities" target="_blank">Java Utility Classes</a>
-
-## JUnit 4 and 5 Tutorials
-* <a href="https://www.javaguides.net/p/junit-5.html" target="_blank">JUnit 5 Tutorial</a>
-* <a href="https://www.javaguides.net/p/junit-4.html" target="_blank">JUnit 4 Tutorial</a>
-* <a href="https://www.javaguides.net/search/label/JUnit%20Examples" target="_blank">JUnit Examples</a>
-## Spring Boot Tutorials
-
-* <a href="https://www.javaguides.net/p/spring-boot-tutorial.html" target="_blank">Spring Boot Tutorial [100 +]</a>
-* <a href="https://www.javaguides.net/p/thymeleaf-tutorial.html" target="_blank">Thymelaf Tutorial</a>
-* <a href="https://www.javaguides.net/p/spring-boot-developer-guide.html" target="_blank">Spring Boot Developer Guide</a>
-* <a href="https://www.javaguides.net/2018/10/spring-boot-annotations.html" target="_blank">Spring Boot Annotations</a>
-* <a href="https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html" target="_blank">Spring Boot Free Projects</a>
-
-## Spring Boot Full Stack Development
-* <a href="https://www.javaguides.net/2019/06/spring-boot-angular-7-crud-example-tutorial.html" target="_blank">Spring Boot Angular 8 CRUD Full Stack</a>
-* <a href="https://www.javaguides.net/2020/01/spring-boot-angular-9-crud-example-tutorial.html" target="_blank">Spring Boot Angular 9 CRUD Full Stack</a>
-* <a href="https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-example-tutorial.html" target="_blank">Spring Boot Angular 10 CRUD Full Stack</a>
-* <a href="https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial.html" target="_blank">Spring Boot React CRUD Full Stack</a>
-* <a href="https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part1.html" target="_blank">Spring Boot Thymeleaf CRUD Full Stack</a>
-
-## Spring Framework
-* <a href="https://www.javaguides.net/p/spring-tutorial-beginners-to-expert.html" target="_blank">Spring Tutorial for Beginners</a>
-* <a href="https://www.javaguides.net/p/spring-core-tutorial.html" target="_blank">Spring Core 5 Tutorial</a>
-* <a href="https://www.javaguides.net/p/spring-mvc-tutorial.html" target="_blank">Spring MVC 5 Tutorial</a>
-* <a href="https://www.javaguides.net/p/spring-data-jpa-tutorial.html" target="_blank">Spring Data JPA Tutorial</a>
-* <a href="https://www.javaguides.net/p/spring-aop-tutorial.html" target="_blank">Spring AOP Tutorial</a>
-* <a href="https://www.javaguides.net/p/spring-security-tutorial.html" target="_blank">Spring Security Tutorial</a>
-
-## Hibernate Framework
-* <a href="https://www.javaguides.net/p/jpa-tutorial-java-persistence-api.html" target="_blank">Java Persistence API</a>
-* <a href="https://www.javaguides.net/p/hibernate-tutorial.html" target="_blank">Hibernate 5 Tutorial</a>
-* <a href="https://www.javaguides.net/p/hibernate-developer-guide.html" target="_blank">Hibernate Developer Guide</a>
-* <a href="https://www.javaguides.net/p/spring-hibernate-tutorials-for-beginners.html" target="_blank">Spring Hibernate Tutorials</a>
-
-## Java Database Tutorials
-* <a href="https://www.javaguides.net/2019/07/java-database-connectivity-tutorial.html" target="_blank">Java MySQL Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-postgresql-tutorial.html" target="_blank">Java PostgreSQL Tutorial</a>
-* <a href="https://www.javaguides.net/2019/08/java-h2-database-tutorial.html" target="_blank">Java H2 Database Tutorial</a>
-* <a href="https://www.javaguides.net/2019/08/java-hsql-tutorial-create-read-update-delete-jdbc-examples.html" target="_blank">Java HSQLDB Tutorial</a>
-* <a href="https://www.javaguides.net/p/mongodb-tutorial.html" target="_blank">NoSQL : MongoDB Tutorial</a>
-* <a href="https://www.javaguides.net/p/java-mongodb-tutorial.html" target="_blank">Java MongoDB Tutorial</a>
-
-## Angular 6/7/8/9/10 Tutorials
-* <a href="https://www.javaguides.net/p/angular-10-tutorial.html" target="_blank">Angular 10 Tutorial</a>
-* <a href="https://www.javaguides.net/p/angular-9-tutorial.html" target="_blank">Angular 9 Tutorial</a>
-* <a href="https://www.javaguides.net/p/angular-8-tutorial-with-examples.html" target="_blank">Angular 6/7/8 Tutorials</a>
-* <a href="https://www.javaguides.net/p/javascript-tutorial-with-examples.html" target="_blank">JavaScript Tutorial</a>
-* <a href="https://www.javaguides.net/p/typescript-tutorial-with-examples.html" target="_blank">TypeScript Tutorial</a>
-* <a href="https://www.javaguides.net/2019/06/lodash-js-tutorial-with-examples.html" target="_blank">Lodash JS Tutorial</a>
-## ReactJS Tutorials
-* <a href="https://www.javaguides.net/p/reactjs-tutorial.html" target="_blank">ReactJS Tutorial</a>
-* <a href="https://www.javaguides.net/p/reactjs-tutorial-for-beginners.html" target="_blank">ReactJS Tutorial for Beginners</a>
-* <a href="https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial.html" target="_blank">Spring Boot React CRUD Full Stack</a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr" target="_blank">Spring Boot React - Free Course</a>
-
-## YouTube Playlists
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNSBOJOlrgQqGpIgo6_VZgR" target="_blank">Spring Boot Videos</a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcMrHnQoSg3pK4PpxCV6pzmO" target="_blank">Hibernate Videos </a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNXD2v76zM1nJybIwhBSwzZ" target="_blank">Java 8 Videos</a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcOjhFoLV2xOfRQqYjpSVhxt" target="_blank">JSP Servlet Videos</a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcOlR-f9gaNlYZ6O3F_n6wIq" target="_blank">Core Java  Videos</a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcPt1zTgO6RU5a78YbhwhYFX" target="_blank">Angular 8 Videos</a>
-* <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcMJUohBvf1Jj7DsxO2mgpLV" target="_blank">ReactJS Videos</a>
-
-## More About Me
+# More About Me
 * <a href="https://www.javaguides.net/p/about-me.html" target="_blank">About Me</a>
-* <a href="https://www.youtube.com/c/javaguides" target="_blank">YouTube</a>
-* <a href="https://www.javaguides.net/p/contact-us.html" target="_blank">Contact Me</a>
-* <a href="https://www.javaguides.net/p/advertise-with-javaguides.html" target="_blank">Advertise</a>
-* <a href="https://www.javaguides.net/p/free-java-ebooks-guides-pdf-resources.html" target="_blank">Resources</a>
-* <a href="https://github.com/RameshMF" target="_blank">GitHub</a>
