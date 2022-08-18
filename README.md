@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 
 # My Udemy Courses
 * <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E" target="_blank">Building Real-Time REST APIs with Spring Boot and Deploy on AWS - Blog App </a>
+
+* <a href="https://www.udemy.com/course/spring-boot-thymeleaf-course/?referralCode=2EF214514F93CA0F0DD3" target="_blank">Spring Boot Thymeleaf Real-Time Web Application - Blog App </a>
+
 * <a href="https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/?referralCode=A75C5DD2967469FE7BDF" target="_blank">Testing Spring Boot Application with JUnit and Mockito (Includes Testcontainers) </a>
 
 * <a href="https://www.udemy.com/course/master-spring-data-jpa-with-hibernate/?referralCode=83ABBA51A8BB3E692F8F" target="_blank">Master Spring Data JPA with Hibernate </a>
@@ -95,7 +98,7 @@ Here are some ideas to get you started:
 * <a href="https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html" target="_blank">Java API Guides - Java Core Packages API Guides</a>
 
 # All 500+ YouTube Videos
-* <a href="https://www.youtube.com/c/javaguides" target="_blank">Java Guides - YouTube Channel with 500+ Videos and 80K Subscribers</a>
+* <a href="https://www.youtube.com/c/javaguides" target="_blank">Java Guides - YouTube Channel with 500+ Videos and 85K Subscribers</a>
 
 # More About Me
 * <a href="https://www.javaguides.net/p/about-me.html" target="_blank">About Me</a>
