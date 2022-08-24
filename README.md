@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 * <a href="https://www.udemy.com/course/spring-boot-rabbitmq-course/?referralCode=597B5A8827E03AB85417" target="_blank">Spring Boot + RabbitMQ (Includes Event-Driven Microservices)</a>
 
 # Free Courses on My YouTube Channel
+* <a href="https://youtu.be/YDT9W5nva_Y" target="_blank">Event-Driven Microservices using Spring Boot and Kafka | Crash Course 🔥</a>
 * <a href="https://youtu.be/TkhU8d-uao8" target="_blank">Spring Boot Kafka Real-World Project Tutorial - Spring Boot Kafka Microservices</a>
 * <a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU" target="_blank">Spring Boot + Apache Kafka Course</a>
 * <a href="https://youtu.be/_thI-4AF7M8" target="_blank">Spring Boot Tutorial - Learn Spring Boot in 10 Hours</a>
