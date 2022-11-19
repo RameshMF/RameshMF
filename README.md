@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 * <a href="https://courses.javaguides.net/p/learn-spring-data-jpa-using-hibernate" target="_blank">Learn Spring Data JPA with Hibernate: The Masterclass </a>
 
 # My Udemy Courses
+* <a href="https://www.udemy.com/course/building-microservices-with-spring-boot-and-spring-cloud/?referralCode=6523E6A8A932A4359E6E" target="_blank">Building Microservices with Spring Boot and Spring Cloud </a>
+
 * <a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E" target="_blank">Building Real-Time REST APIs with Spring Boot and Deploy on AWS - Blog App </a>
 
 * <a href="https://www.udemy.com/course/spring-boot-thymeleaf-course/?referralCode=2EF214514F93CA0F0DD3" target="_blank">Spring Boot Thymeleaf Real-Time Web Application - Blog App </a>
