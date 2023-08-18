@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development (NodeJS, ReactJS, and Angular).
 - 💬 Ask me about Java, Spring Boot, React, Angular, or any tech-related stuff.
 
-# Java Guides Blog
+# Java Guides Blog - 2000+ Posts, Tutorials, Guides, Examples
 * <a href="https://www.javaguides.net/p/top-java-tutorials.html" target="_blank">Top Java and Java EE Tutorials</a>
 * <a href="https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html" target="_blank">Java API Guides</a>
 * [50+ Spring and Spring Boot Annotations with Examples](https://www.javaguides.net/p/spring-annotations-examples.html)
@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 * [Top Programming, Frameworks, and Database Quizzes: Test Your Knowledge!](https://www.javaguides.net/p/top-programming-frameworks-and-database.html)
 * [Java Guides - YouTube Channel (120K+ Subscribers)](https://www.youtube.com/c/javaguides)
 * [My All Udemy Courses and Discount Coupons](https://www.javaguides.net/p/my-udemy-courses-ramesh-fadatare.html)
+* <a href="https://www.javaguides.net/p/about-me.html" target="_blank">About Me</a>
 
-# Java Guides YouTube Channel - 700+ Videos
+# Java Guides YouTube Channel - 120K+ Subscribers and 700+ Videos
 * [Join Java Guides - YouTube Channel (120K+ Subscribers)](https://www.youtube.com/c/javaguides)
 
   
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
   <img alt="Ramesh's Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
 </a>
 
-# My Udemy Courses
+# My Udemy Courses - Bestseller and Top-rated
 * [Spring 6 and Spring Boot 3 for Beginners (Includes Projects)](https://www.udemy.com/course/learn-spring-boot/?referralCode=C2200F473771CD228695) // Bestseller
 * [[NEW] Full-Stack Java Development with Spring Boot & React](https://www.udemy.com/course/full-stack-java-development-with-spring-boot-react/?referralCode=86222EF6D33E4738963E)
 
@@ -105,6 +106,3 @@ Here are some ideas to get you started:
 * <a href="https://youtu.be/Kzojk8kjM8Q" target="_blank">10 Essential Tools for Java Developers | Real-Time Tools</a>
 * <a href="https://youtu.be/nZFe5ITz11I" target="_blank">How to Learn Spring Boot Step by Step - Spring Boot Learning Path</a>
 * <a href="https://youtu.be/o6c1zessesw" target="_blank">Best Way to Learn Java Programming | For Beginners Only</a>
-
-# More About Me
-* <a href="https://www.javaguides.net/p/about-me.html" target="_blank">About Me</a>
