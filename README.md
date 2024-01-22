@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development (NodeJS, ReactJS, and Angular).
 - 💬 Ask me about Java, Spring Boot, React, Angular, or any tech-related stuff.
 
-# Java Guides Blog - 2000+ Posts, Tutorials, Guides, Examples
+# Java Guides Blog - 5000+ Posts, Tutorials, Guides, Examples
 * <a href="https://www.javaguides.net/p/top-java-tutorials.html" target="_blank">Top Java and Java EE Tutorials</a>
 * <a href="https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html" target="_blank">Java API Guides</a>
 * [50+ Spring and Spring Boot Annotations with Examples](https://www.javaguides.net/p/spring-annotations-examples.html)
@@ -32,29 +32,19 @@ Here are some ideas to get you started:
 * [My All Udemy Courses and Discount Coupons](https://www.javaguides.net/p/my-udemy-courses-ramesh-fadatare.html)
 * <a href="https://www.javaguides.net/p/about-me.html" target="_blank">About Me</a>
 
-# Java Guides YouTube Channel - 120K+ Subscribers and 700+ Videos
+# Java Guides YouTube Channel - 135K+ Subscribers and 700+ Videos
 * [Join Java Guides - YouTube Channel (120K+ Subscribers)](https://www.youtube.com/c/javaguides)
 
   
 # Connect with me
-<a href="https://twitter.com/FadatareRamesh" rel="nofollow">
-  <img alt="Ramesh's Twitter" width="22px" src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;">
-</a> &nbsp;
-<a href="https://www.youtube.com/c/javaguides" rel="nofollow">
-    <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://camo.githubusercontent.com/33faa4fa48fe28c11ace1986cc89bb01824a04a4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width:100%;">
-</a>
-<a href="https://www.linkedin.com/in/ramesh-fadatare-21703464" rel="nofollow">
-  <img alt="Ramesh's Linkedin" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
-</a> &nbsp;
-<a href="https://stackoverflow.com/users/7430105/ramesh-fadatare" rel="nofollow">
-  <img alt="Ramesh's StackOverflow" width="22px" src="https://camo.githubusercontent.com/65af9fc470293401135dba50a1fdd821be90cfc3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f737461636b6f766572666c6f772e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="max-width:100%;">
-</a> &nbsp;
-<a href="https://www.facebook.com/javatechnology" rel="nofollow">
-  <img alt="Ramesh's Facebook" width="22px" src="https://camo.githubusercontent.com/cf4f8d2d15be36d8d350ce33929ef131091abc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">
-</a>  &nbsp;
-<a href="https://www.instagram.com/rameshfadatare/" rel="nofollow">
-  <img alt="Ramesh's Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
-</a>
+<ul>
+<li><a href="https://twitter.com/FadatareRamesh" rel="nofollow"> Twitter/X </a> </li>
+<li><a href="https://www.youtube.com/c/javaguides" rel="nofollow"> YouTube Channel</a> </li>
+<li><a href="https://www.linkedin.com/in/ramesh-fadatare-21703464" rel="nofollow"> Linkedin</a> </li>
+<li><a href="https://stackoverflow.com/users/7430105/ramesh-fadatare" rel="nofollow"> StackOverflow </a> </li>
+<li><a href="https://www.facebook.com/javatechnology" rel="nofollow"> Facebook</a>  </li>
+<li><a href="https://www.instagram.com/rameshfadatare/" rel="nofollow"> Instagram</a></li>
+</ul>
 
 # My Udemy Courses - Bestseller and Top-rated
 * [Spring 6 and Spring Boot 3 for Beginners (Includes Projects)](https://www.udemy.com/course/learn-spring-boot/?referralCode=C2200F473771CD228695) // Bestseller
